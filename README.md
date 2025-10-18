@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Fun fact: The first computer bug was an actual moth found in a computer.**
 
-- (https://holopin.me/mukund90)](https://holopin.io/@mukund90)
+[![An image of @mukund90's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukund90)](https://holopin.io/@mukund90)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
