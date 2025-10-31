@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/mukund-jha-24001824b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukund-jha-24001824b" height="30" width="40" /></a>
 <a href="https://fb.com/mukund.jha.7547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mukund.jha.7547" height="30" width="40" /></a>
 <a href="https://instagram.com/jha__mukund__17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jha__mukund__17" height="30" width="40" /></a>
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/jhamukund986?theme=forest&font=Oxanium)
 <a href="https://www.leetcode.com/jhamukund986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jhamukund986" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jhamukuwu0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jhamukuwu0v" height="30" width="40" /></a>
 </p>
